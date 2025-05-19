@@ -1,2 +1,2 @@
 # Government-ID-Tracker
-This website efficiently manages and tracks the issuance and verification process of government IDs
+This website efficiently manages and tracks the issuance and verification process of government IDs by modeling the workflow as a series of dependent steps 🔄. Using a topological sort algorithm 🔢, it ensures that each step—such as application submission 📝, document verification 📑, background checks ✅, and final approval ✔️—is completed in the correct order without conflicts. This approach helps streamline the entire ID processing pipeline 🚀, preventing bottlenecks and ensuring timely delivery of IDs to citizens 🏃‍♂️🏃‍♀️.
